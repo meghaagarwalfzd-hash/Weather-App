@@ -20,7 +20,8 @@ A simple and responsive weather application that allows users to check real-time
 * OpenWeatherMap API (or whichever API you used)
 
 
-## 🔗 Live Demo
+## 🔗 Live Demo 
+https://meghaagarwalfzd-hash.github.io/Weather-App/
 
 
 
